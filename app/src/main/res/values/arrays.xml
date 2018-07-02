@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types">
+        <item>请选择</item>
+        <item>科幻</item>
+        <item>冒险</item>
+        <item>剧情</item>
+        <item>传记</item>
+        <item>犯罪</item>
+        <item>悬疑</item>
+        <item>喜剧</item>
+        <item>爱情</item>
+        <item>动画</item>
+        <item>奇幻</item>
+        <item>运动</item>
+        <item>惊悚</item>
+        <item>恐怖</item>
+        <item>戏曲</item>
+    </string-array>
+</resources>
